@@ -1,6 +1,6 @@
 {
-  "name": "@download/blockies",
-  "version": "1.0.3",
+  "name": "coinstats-blockies",
+  "version": "1.0.0",
   "description": "A tiny library for generating blocky identicons.",
   "main": "dist/blockies.js",
   "module": "src/blockies.mjs",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/download13/blockies.git"
+    "url": "git+https://github.com/CoinStatsHQ/blockies.git"
   },
-  "author": "Erin Dachtler, Alex Van de Sande",
+  "author": "Varik Matevosyan, Erin Dachtler, Alex Van de Sande",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/download13/blockies/issues"
+    "url": "https://github.com/CoinStatsHQ/blockies/issues"
   },
-  "homepage": "https://github.com/download13/blockies#readme",
+  "homepage": "https://github.com/CoinStatsHQ/blockies#readme",
   "devDependencies": {
     "babel-minify": "^0.4.3",
     "koa": "^2.5.2",
