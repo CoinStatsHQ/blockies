@@ -1,5 +1,5 @@
 {
-  "name": "coinstats-blockies",
+  "name": "@coinstats/blockies",
   "version": "1.0.0",
   "description": "A tiny library for generating blocky identicons.",
   "main": "dist/blockies.js",
